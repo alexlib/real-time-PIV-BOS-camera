@@ -89,3 +89,4 @@ venv.bak/
 .pyre/
 .vscode/settings.json
 *.lprof
+uv.lock
